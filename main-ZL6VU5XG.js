@@ -67516,7 +67516,7 @@ var Iae = (t) => ({ token: t }),
           [1, "d-block", "text-center", "mb-3"],
           [
             "href",
-            "https://etherscan.io/token/0xComingSoon?a=0x1b958974311e4c765cbbff120fdee87da91df8e8",
+            "https://etherscan.io/token/0xd04f6ebde348fe6e1408aca8de20a9883126d368?a=0x1b958974311e4c765cbbff120fdee87da91df8e8",
             "target",
             "_blank",
             "title",
