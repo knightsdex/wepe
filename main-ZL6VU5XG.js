@@ -63763,7 +63763,7 @@ var o6 = (() => {
               name: "WEPE",
               url: "https://wallstreetpepe.com",
               logo: "https://wallstreetpepe.com/assets/images/png/logo.png",
-              sameAs: ["https://x.com/wspepeerc", "https://t.me/wspepeerc"],
+              sameAs: ["https://x.com/wspepeerc", "https://t.me/wspepe_erc"],
             },
             {
               "@type": "Product",
@@ -64661,7 +64661,7 @@ var s6 = (() => {
         [1, "social-wrapper", "d-none", "d-lg-block"],
         [
           "href",
-          "https://t.me/wspepeerc",
+          "https://t.me/wspepe_erc",
           "target",
           "_blank",
           "title",
@@ -65910,7 +65910,7 @@ var Hh = (() => {
         ],
         [1, "text-black", "font-lg-45", "font-32", "fw-bold"],
         [1, "d-flex", "justify-content-center", "gap-5", "mt-4", "icons-img"],
-        ["href", "https://t.me/wspepeerc", "target", "_blank"],
+        ["href", "https://t.me/wspepe_erc", "target", "_blank"],
         [
           "src",
           "assets/images/svg-icons/social-icons/telegram.svg",
@@ -68464,7 +68464,7 @@ var k6 = (() => {
           "ngIf",
         ],
         [1, "d-flex", "justify-content-center", "gap-1", "w-50", "mx-auto"],
-        ["href", "https://t.me/wspepeerc", "target", "_blank"],
+        ["href", "https://t.me/wspepe_erc", "target", "_blank"],
         [
           "src",
           "assets/images/svg-icons/social-icons/telegram.svg",
@@ -68704,7 +68704,7 @@ var E6 = (() => {
       {
         img: "assets/images/svg-icons/social-icons/telegram.svg",
         alt: "telegram",
-        link: "https://t.me/wspepeerc",
+        link: "https://t.me/wspepe_erc",
       },
       {
         img: "assets/images/svg-icons/social-icons/twitter.svg",
@@ -70542,7 +70542,7 @@ var Sk = (() => {
         [1, "social-wrapper", "d-none", "d-lg-block"],
         [
           "href",
-          "https://t.me/wspepeerc",
+          "https://t.me/wspepe_erc",
           "target",
           "_blank",
           "title",
