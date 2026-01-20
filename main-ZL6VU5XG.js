@@ -63763,7 +63763,7 @@ var o6 = (() => {
               name: "WEPE",
               url: "https://wallstreetpepe.com",
               logo: "https://wallstreetpepe.com/assets/images/png/logo.png",
-              sameAs: ["https://x.com/wepetoken", "https://t.me/WEPEtoken"],
+              sameAs: ["https://x.com/wspepeerc", "https://t.me/wspepeerc"],
             },
             {
               "@type": "Product",
@@ -64661,7 +64661,7 @@ var s6 = (() => {
         [1, "social-wrapper", "d-none", "d-lg-block"],
         [
           "href",
-          "https://t.me/WEPEtoken",
+          "https://t.me/wspepeerc",
           "target",
           "_blank",
           "title",
@@ -64673,7 +64673,7 @@ var s6 = (() => {
           "alt",
           "Telegram",
         ],
-        ["href", "https://x.com/wepetoken", "target", "_blank", "title", "x"],
+        ["href", "https://x.com/wspepeerc", "target", "_blank", "title", "x"],
         [
           "src",
           "assets/images/svg-icons/social-icons/twitter-square.svg",
@@ -65666,39 +65666,39 @@ var p6 = (() => {
     news = [
       {
         src: "/assets/images/webp/news_1.webp",
-        url: "https://x.com/WEPEToken/status/1892575565737075103",
+        url: "https://x.com/wspepeerc/status/1892575565737075103",
       },
       {
         src: "/assets/images/webp/news_2.webp",
-        url: "https://x.com/WEPEToken/status/1886446603231179162",
+        url: "https://x.com/wspepeerc/status/1886446603231179162",
       },
       {
         src: "/assets/images/webp/news_3.webp",
-        url: "https://x.com/WEPEToken/status/1891874806401831119",
+        url: "https://x.com/wspepeerc/status/1891874806401831119",
       },
       {
         src: "/assets/images/webp/news_4.webp",
-        url: "https://x.com/WEPEToken/status/1889711114591605085",
+        url: "https://x.com/wspepeerc/status/1889711114591605085",
       },
       {
         src: "/assets/images/webp/news_5.webp",
-        url: "https://x.com/WEPEToken/status/1888262811018490302",
+        url: "https://x.com/wspepeerc/status/1888262811018490302",
       },
       {
         src: "/assets/images/webp/news_6.webp",
-        url: "https://x.com/WEPEToken/status/1884241323319828645",
+        url: "https://x.com/wspepeerc/status/1884241323319828645",
       },
       {
         src: "/assets/images/webp/news_7.webp",
-        url: "https://x.com/WEPEToken/status/1931370587617652833",
+        url: "https://x.com/wspepeerc/status/1931370587617652833",
       },
       {
         src: "/assets/images/webp/news_8.webp",
-        url: "https://x.com/WEPEToken/status/1894033340199473659",
+        url: "https://x.com/wspepeerc/status/1894033340199473659",
       },
       {
         src: "/assets/images/webp/news_9.webp",
-        url: "https://x.com/WEPEToken/status/1920862031453782373",
+        url: "https://x.com/wspepeerc/status/1920862031453782373",
       },
     ];
     sliderOptions = {
@@ -65910,7 +65910,7 @@ var Hh = (() => {
         ],
         [1, "text-black", "font-lg-45", "font-32", "fw-bold"],
         [1, "d-flex", "justify-content-center", "gap-5", "mt-4", "icons-img"],
-        ["href", "https://t.me/WEPEtoken", "target", "_blank"],
+        ["href", "https://t.me/wspepeerc", "target", "_blank"],
         [
           "src",
           "assets/images/svg-icons/social-icons/telegram.svg",
@@ -65919,7 +65919,7 @@ var Hh = (() => {
           "loading",
           "lazy",
         ],
-        ["href", "https://x.com/wepetoken", "target", "_blank"],
+        ["href", "https://x.com/wspepeerc", "target", "_blank"],
         [
           "src",
           "assets/images/svg-icons/social-icons/twitter.svg",
@@ -68465,7 +68465,7 @@ var k6 = (() => {
           "ngIf",
         ],
         [1, "d-flex", "justify-content-center", "gap-1", "w-50", "mx-auto"],
-        ["href", "https://t.me/WEPEtoken", "target", "_blank"],
+        ["href", "https://t.me/wspepeerc", "target", "_blank"],
         [
           "src",
           "assets/images/svg-icons/social-icons/telegram.svg",
@@ -68474,7 +68474,7 @@ var k6 = (() => {
           "height",
           "40",
         ],
-        ["href", "https://x.com/wepetoken", "target", "_blank"],
+        ["href", "https://x.com/wspepeerc", "target", "_blank"],
         [
           "src",
           "assets/images/svg-icons/social-icons/twitter.svg",
@@ -68705,12 +68705,12 @@ var E6 = (() => {
       {
         img: "assets/images/svg-icons/social-icons/telegram.svg",
         alt: "telegram",
-        link: "https://t.me/WEPEtoken",
+        link: "https://t.me/wspepeerc",
       },
       {
         img: "assets/images/svg-icons/social-icons/twitter.svg",
         alt: "twitter",
-        link: "https://x.com/wepetoken",
+        link: "https://x.com/wspepeerc",
       },
       {
         img: "assets/images/svg-icons/social-icons/instagram.svg",
@@ -70557,7 +70557,7 @@ var Sk = (() => {
         [1, "social-wrapper", "d-none", "d-lg-block"],
         [
           "href",
-          "https://t.me/WEPEtoken",
+          "https://t.me/wspepeerc",
           "target",
           "_blank",
           "title",
@@ -70569,7 +70569,7 @@ var Sk = (() => {
           "alt",
           "Telegram",
         ],
-        ["href", "https://x.com/wepetoken", "target", "_blank", "title", "x"],
+        ["href", "https://x.com/wspepeerc", "target", "_blank", "title", "x"],
         [
           "src",
           "assets/images/svg-icons/social-icons/twitter-square.svg",
