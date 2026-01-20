@@ -47808,7 +47808,7 @@ var W = {
     },
   },
   minToken: 50,
-  tokenName: "$WEPE",
+  tokenName: "$WSPEPE",
   tokenAddress: "0xccB365D2e11aE4D6d74715c680f56cf58bF4bF10",
   walletConnectId: "9c12f4a314260db494748659e325147c",
   stakingAddress: "0xE7734d85375A975c5C0dECd5D934eeb7461701cc",
@@ -55772,7 +55772,7 @@ var Xi = (() => {
           a = {
             publicAddress: this.walletAddress,
             event: i,
-            tokenSymbol: "$WEPE",
+            tokenSymbol: "$WSPEPE",
             tokenContractAddress: W.tokenAddress,
             purchaseTokens: e,
             purchaseTypeAmount: +e,
@@ -55783,7 +55783,7 @@ var Xi = (() => {
             hash: r,
             chainId: this.chainId,
             purchaseType: i,
-            presaleName: "$WEPE",
+            presaleName: "$WSPEPE",
             isBW: !0,
             rABsZdfEqoXvExie: fo("rABsZdfEqoXvExie") || void 0,
           };
@@ -60281,7 +60281,7 @@ var fy = (() => {
           "src",
           "./assets/images/png/logo.png",
           "alt",
-          "wepe token",
+          "WSPEPE TOKEN",
           "width",
           "22px",
         ],
@@ -61112,7 +61112,7 @@ var KB = (() => {
           "src",
           "./assets/images/png/logo.png",
           "alt",
-          "wepe token",
+          "WSPEPE TOKEN",
           "width",
           "22px",
         ],
@@ -63784,7 +63784,7 @@ var o6 = (() => {
             {
               "@type": "Event",
               "@id": "https://wallstreetpepe.com",
-              name: "WEPE Token Presale",
+              name: "WSPEPE TOKEN Presale",
               startDate: e.toISOString(),
               endDate: i.toISOString(),
               eventStatus: "https://schema.org/EventScheduled",
@@ -64716,7 +64716,7 @@ var s6 = (() => {
           "d-lg-none",
           "mt-3",
         ],
-        ["id", "solana-about"],
+        ["id", "wepe-about"],
       ],
       template: function (i, r) {
         i & 1 &&
@@ -67073,7 +67073,7 @@ var Sae = (t) => ({ token: t }),
             "justify-content-center",
           ],
           [1, "buy-btn", 3, "click"],
-          ["id", "solana-about"],
+          ["id", "wepe-about"],
         ],
         template: function (i, r) {
           i & 1 &&
@@ -68092,7 +68092,6 @@ var k6 = (() => {
         (this.isMobile = this.windowSize <= 1024);
     }
     navigations = [
-      { routeName: "solana-about", navName: "top_navigation.nav_solana" },
       { routeName: "how-to-buy", navName: "top_navigation.nav_howtobuy" },
       { routeName: "roadmap", navName: "top_navigation.nav_roadmap" },
       { routeName: "faqs", navName: "top_navigation.nav_faq" },
@@ -69990,7 +69989,7 @@ var Ck = (() => {
           "src",
           "/assets/images/svg-icons/token-logo.svg",
           "alt",
-          "WEPE Token Logo",
+          "WSPEPE TOKEN Logo",
           "height",
           "300",
           1,
@@ -70228,7 +70227,7 @@ var Ck = (() => {
             _(8),
             w(9, "translate"),
             h(10, "a", 10),
-            _(11, "$WEPE"),
+            _(11, "$WSPEPE"),
             f(),
             _(12),
             w(13, "translate"),
